@@ -1,3 +1,3 @@
-module github.com/cemdrk/go-getting-started
+module github.com/tbcuerdo/go-getting-started
 
 go 1.14
